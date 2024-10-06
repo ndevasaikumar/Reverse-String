@@ -1,4 +1,5 @@
-**TWO POINTER METHOD **
+**TWO POINTER METHOD**
+
 First intilize two integer variables.
 
 Point Vriable 1 to starting of the  string 
@@ -11,10 +12,8 @@ In each iteration don't forget to increment the i and decrement j.
 
 By the end of the while loop we will get a reverse string of the orinal string
 
-**Time Complexity : 
-**
+**Time Complexity :**
 O(N)
 
-**Space Complexity :
-**
+**Space Complexity :**
 O(1)
